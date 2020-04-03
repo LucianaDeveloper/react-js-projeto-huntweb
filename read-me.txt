@@ -1,0 +1,7 @@
+react js -> WEB
+npm i -g create-react-app
+create-react-app huntweb
+npm start - atualizar navegador porta 3000
+yarn add axios - para poder acessar uma api
+/* configurando navegação da aplicação - exibindo detalhes */
+yarn add react-router-dom - instalar biblioteca que vamos utilizar  para fazer a navegação
